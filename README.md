@@ -267,11 +267,9 @@ Publish the website in the given URL.
         <p>Email: info@example.com</p>
         <p>Phone: +1 234 567 890</p>
     </section>
-
     <footer>
         <p>&copy; 2023 E-Learning Platform</p>
     </footer>
-
 </body>
 </html>
 ```
