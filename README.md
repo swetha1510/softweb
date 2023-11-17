@@ -1,29 +1,21 @@
 # Ex.07 Software Product Company Website
 ## Date:24.10.23
-
 ## AIM:
 To develop a static company website to display the softwares and services provided by the company.
 
 ## DESIGN STEPS:
-
 ### Step 1:
 Requirement collection.
-
 ### Step 2:
 Creating the layout using HTML and CSS.
-
 ### Step 3:
 Updating the sample content.
-
 ### Step 4:
 Choose the appropriate style and color scheme.
-
 ### Step 5:
 Validate the layout in various browsers.
-
 ### Step 6:
 Validate the HTML code.
-
 ### Step 7:
 Publish the website in the given URL.
 
@@ -287,6 +279,5 @@ Publish the website in the given URL.
 ![Screenshot 2023-11-18 000325](https://github.com/swetha1510/softweb/assets/120623583/55c767b6-cef2-4439-a951-c3b5b69cd835)
 ![Screenshot 2023-11-18 000443](https://github.com/swetha1510/softweb/assets/120623583/b3699df1-8e61-4368-aaa8-a1fdb7dd057c)
 ![Screenshot 2023-11-18 000513](https://github.com/swetha1510/softweb/assets/120623583/4b9b7a5e-ae62-44fb-8f9e-f8aba54400d6)
-
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
