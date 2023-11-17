@@ -90,7 +90,6 @@ Publish the website in the given URL.
     <footer>
         <p>&copy; 2023 E-Learning Platform</p>
     </footer>
-
 </body>
 </html>
 <!DOCTYPE html>
@@ -114,7 +113,6 @@ Publish the website in the given URL.
             padding: 10px;
             text-align: center;
         }
-
         nav {
             background-color: #555;
             padding: 10px;
@@ -127,11 +125,9 @@ Publish the website in the given URL.
             padding: 10px;
             margin: 0 10px;
         }
-
         section {
             padding: 20px;
         }
-
         .course-card {
             border: 1px solid #ddd;
             border-radius: 5px;
@@ -140,13 +136,11 @@ Publish the website in the given URL.
             background-color: white;
             padding: 10px;
         }
-
         .course-card img {
             width: 100%;
             height: 150px;
             object-fit: cover;
         }
-
         .course-card h3 {
             margin: 10px 0;
         }
@@ -163,28 +157,23 @@ Publish the website in the given URL.
     </style>
 </head>
 <body>
-
     <header>
         <h1>E-Learning Platform</h1>
     </header>
-
     <nav>
         <a href="index.html">Home</a>
         <a href="courses.html">Courses</a>
         <a href="contact.html">Contact</a>
     </nav>
-
     <section>
         <h2>Available Courses</h2>
 
         <div class="course-card">
             <img src="course.jpg" alt="Course 1" style="width: 400px; height: 700px;">
-        </div>
-        
+        </div>     
             <h3>Introduction to HTML</h3>
             <p>Learn the basics of HTML.</p>
         </div>
-
         <div class="course-card">
             <img src="course1.png" alt="Course 2" style="width: 500px; height: 500px;">
         </div>
@@ -192,11 +181,9 @@ Publish the website in the given URL.
             <p>Explore the fundamentals of CSS.</p>
         </div>
     </section>
-
     <footer>
         <p>&copy; 2023 E-Learning Platform</p>
     </footer>
-
 </body>
 </html>
 <!DOCTYPE html>
@@ -277,5 +264,6 @@ Publish the website in the given URL.
 ![Screenshot 2023-11-18 000325](https://github.com/swetha1510/softweb/assets/120623583/55c767b6-cef2-4439-a951-c3b5b69cd835)
 ![Screenshot 2023-11-18 000443](https://github.com/swetha1510/softweb/assets/120623583/b3699df1-8e61-4368-aaa8-a1fdb7dd057c)
 ![Screenshot 2023-11-18 000513](https://github.com/swetha1510/softweb/assets/120623583/4b9b7a5e-ae62-44fb-8f9e-f8aba54400d6)
+
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
